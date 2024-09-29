@@ -24,3 +24,9 @@
 2024.09.30 ~ 2024.10.06
 
 - leetcode75 - Two Points + Sliding Windows + Prefix Sum => 10문제
+
+## 3주차
+
+2024.10.07 ~ 2024.10.13
+
+- leetcode75 - Hash Map/Set + Stack + Queue => 9문제
